@@ -1,0 +1,13 @@
+{
+    "name": "Link Extraction",
+    "version": "1.0",
+    "description": "Extract Link from WebSite",
+    "browser_action": {
+      "default_icon": "images/icon16.png",
+      "default_popup": "src/popup.html"
+     },
+     "permissions": [
+      "activeTab"
+      ],
+    "manifest_version": 2
+  }
